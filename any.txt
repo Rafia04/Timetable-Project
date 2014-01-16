@@ -1,0 +1,12 @@
+any thing you will done here and then run the command 
+git push
+it will be updated on the remote
+and if I will do some changes.
+you will get notified that ahmad has done changes to the reporsityr
+then you will run the command
+git pull
+and it will download those changes.
+now I am testing this file changes.
+all these changes are saved in that .git folder.
+and you can add many version by git branch etc.
+i will send you a little doucment for intro to this. Git versiosning.
